@@ -1,0 +1,13 @@
+D:\ProyectoC#\pruebaApi\PersonaForm\bin\Debug\PersonaForm.exe.config
+D:\ProyectoC#\pruebaApi\PersonaForm\bin\Debug\PersonaForm.exe
+D:\ProyectoC#\pruebaApi\PersonaForm\bin\Debug\PersonaForm.pdb
+D:\ProyectoC#\pruebaApi\PersonaForm\bin\Debug\Newtonsoft.Json.dll
+D:\ProyectoC#\pruebaApi\PersonaForm\bin\Debug\Newtonsoft.Json.xml
+D:\ProyectoC#\pruebaApi\PersonaForm\obj\Debug\PersonaForm.csproj.AssemblyReference.cache
+D:\ProyectoC#\pruebaApi\PersonaForm\obj\Debug\PersonaForm.Form1.resources
+D:\ProyectoC#\pruebaApi\PersonaForm\obj\Debug\PersonaForm.Properties.Resources.resources
+D:\ProyectoC#\pruebaApi\PersonaForm\obj\Debug\PersonaForm.csproj.GenerateResource.cache
+D:\ProyectoC#\pruebaApi\PersonaForm\obj\Debug\PersonaForm.csproj.CoreCompileInputs.cache
+D:\ProyectoC#\pruebaApi\PersonaForm\obj\Debug\PersonaForm.csproj.CopyComplete
+D:\ProyectoC#\pruebaApi\PersonaForm\obj\Debug\PersonaForm.exe
+D:\ProyectoC#\pruebaApi\PersonaForm\obj\Debug\PersonaForm.pdb
